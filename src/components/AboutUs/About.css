@@ -1,0 +1,99 @@
+section#about{
+background-color: #eee;
+}
+
+.about{
+    text-align: center;
+
+}
+
+.about h2 {
+    font-size: 3rem;
+    font-weight: 200;
+    line-height: 1.4;
+    text-transform: uppercase;
+    margin: 1.5rem 0;
+    padding-bottom: 1rem;
+}
+
+
+.about .abouts{
+    display: flex;
+    margin-top: 2.5rem;
+}
+.about .abouts .about-left,
+.about .abouts .about-right{
+flex: 1;
+padding: 1rem;
+text-align: justify;
+
+}
+.about .abouts .about-right{
+    padding-left: 2rem;
+}
+
+.about .abouts .about-left img{
+    width: 100%;
+}
+
+
+
+.about .abouts .about-right .progress .technique{
+    padding-top: 30px;
+    text-transform: capitalize;
+}
+.about .abouts .about-right .progress .technique h4{
+    font-size: 1.6rem;
+    font-weight: 300;
+    line-height: 1.4;
+    text-transform: uppercase;
+    color: #333;
+    margin-bottom: .5rem;
+}
+.about .abouts .about-right .progress .technique div{
+background-color: #d0d0d0;
+height:15px;
+width: 100%;
+margin-bottom: 2rem;
+}
+.about .abouts .about-right .progress .technique div span{
+background-color: #2b9cdd;
+display: block;
+height:15px ;
+color: #fff;
+font-size: 13px;
+text-align: right;
+font-weight: normal;
+line-height: 15px;
+}
+
+
+
+
+
+@media screen and (max-width:850px) {
+
+    .about .abouts {
+        flex-direction: column;}
+
+        .about .abouts .about-left,
+        .about .abouts .about-right{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto;
+
+    }
+
+    .about .abouts .about-left{
+        margin-bottom: 4rem;
+    }
+
+    .about .abouts .about-right .progress{
+    width: 80%;
+    margin: auto;
+    
+    
+    }
+    }

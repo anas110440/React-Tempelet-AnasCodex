@@ -1,0 +1,7 @@
+.header-bg{
+    width: 100%;
+    background: var(--dark-blue);
+    height:100%;
+    min-height: 100vh;
+    
+}
