@@ -73,12 +73,12 @@ img {
 
 @media (min-width:1351px) and (min-width:1400px) {
   .container {
-    width: 85%;
+    width: 90%;
   }
 
   .header-bg {
 
-    min-height: 73vh;
+    min-height: 92vh;
 
   }
 }
