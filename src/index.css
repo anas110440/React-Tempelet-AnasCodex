@@ -74,4 +74,9 @@ img{
   .container{
     width: 1390px;
   }
+  .header-bg{
+ 
+    min-height: 70vh;
+    
+}
 }
