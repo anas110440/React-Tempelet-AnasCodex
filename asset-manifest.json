@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/React-Tempelet-AnasCodex/static/css/main.2801f898.css",
+    "main.css": "/React-Tempelet-AnasCodex/static/css/main.c492a329.css",
     "main.js": "/React-Tempelet-AnasCodex/static/js/main.dcc67dd1.js",
     "static/media/top.jpg": "/React-Tempelet-AnasCodex/static/media/top.5088218c12fb37699f43.jpg",
     "static/media/blue.png": "/React-Tempelet-AnasCodex/static/media/blue.2ee4cf083bb8d839a8b6.png",
     "static/media/pink.png": "/React-Tempelet-AnasCodex/static/media/pink.f549a48c63f17989e92d.png",
     "static/media/feat.jpg": "/React-Tempelet-AnasCodex/static/media/feat.212d7787c259a3ec493d.jpg",
     "index.html": "/React-Tempelet-AnasCodex/index.html",
-    "main.2801f898.css.map": "/React-Tempelet-AnasCodex/static/css/main.2801f898.css.map",
+    "main.c492a329.css.map": "/React-Tempelet-AnasCodex/static/css/main.c492a329.css.map",
     "main.dcc67dd1.js.map": "/React-Tempelet-AnasCodex/static/js/main.dcc67dd1.js.map"
   },
   "entrypoints": [
-    "static/css/main.2801f898.css",
+    "static/css/main.c492a329.css",
     "static/js/main.dcc67dd1.js"
   ]
 }
