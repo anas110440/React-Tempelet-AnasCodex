@@ -45,49 +45,32 @@ img {
 
 
 @media (min-width:315px) and (max-width:576px) {
-<<<<<<< HEAD
   .container {
-=======
-  .container{
->>>>>>> 60e5d856ede1f5e22f3f51ee111907c348469cca
     width: 90%;
   }
 }
 
 
 @media (min-width:577px) and (max-width:768px) {
-<<<<<<< HEAD
   .container {
-=======
-  .container{
->>>>>>> 60e5d856ede1f5e22f3f51ee111907c348469cca
     width: 700px;
   }
 }
 
 @media (min-width:769px) and (max-width:991px) {
-<<<<<<< HEAD
   .container {
-=======
-  .container{
->>>>>>> 60e5d856ede1f5e22f3f51ee111907c348469cca
     width: 960px;
   }
 }
 
 @media (min-width:992px) and (max-width:1200px) {
-<<<<<<< HEAD
   .container {
-=======
-  .container{
->>>>>>> 60e5d856ede1f5e22f3f51ee111907c348469cca
     width: 1140px;
   }
 }
 
 
 @media (min-width:1201px) and (min-width:1400px) {
-<<<<<<< HEAD
   .container {
     width: 1390px;
   }
@@ -98,14 +81,3 @@ img {
 
   }
 }
-=======
-  .container{
-    width: 1390px;
-  }
-  .header-bg{
- 
-    min-height: 70vh;
-    
-}
-}
->>>>>>> 60e5d856ede1f5e22f3f51ee111907c348469cca
