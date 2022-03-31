@@ -35,6 +35,7 @@ section {
 .container {
   margin: 0 auto;
   padding: 0 20px;
+  width: 85%;
 
 }
 
@@ -70,7 +71,7 @@ img {
 }
 
 
-@media (min-width:1511px) and (min-width:1400px) {
+@media (min-width:1351px) and (min-width:1400px) {
   .container {
     width: 85%;
   }
